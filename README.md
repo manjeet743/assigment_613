@@ -1,2 +1,2 @@
 # Winodws-Programming-Assignment
-[Assignment Link : ](https://mayurkoli128.github.io/MCA613/)
+[Assignment Link : ](https://manjeet743.github.io/assigment_613/)
