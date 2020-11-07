@@ -1,0 +1,37 @@
+/*index  FILE STYLING*/
+.nav-back {
+    border:rgb(187, 155, 155) 1px double;
+    margin-top: 10px;
+}
+.nav-head {
+    margin: auto;
+    letter-spacing: 5px;
+}
+.box {
+    background-color: rgb(177, 207, 253);
+    padding: 100px;
+    text-align: center;
+    margin:20px;
+}
+
+.blog-footer {
+    margin-top: 50px;
+    height: 50px;
+    text-align: center;
+}
+
+.info {
+    margin: 20px;
+}
+.content-head {
+    max-width: 1000px;
+}
+
+.html-content {
+    text-indent: 30px;
+    margin-top: 50px;
+    background-color: rgb(211, 163, 163);
+    margin-bottom: 50px;
+    padding: 10px;
+    border-radius: 10px;
+}
